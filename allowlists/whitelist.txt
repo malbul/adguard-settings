@@ -28,3 +28,4 @@
 @@||twimg.com^$important
 @@||t.co^$important
 @@||preview.redd.it^$important
+@@||i.redd.it^$important
